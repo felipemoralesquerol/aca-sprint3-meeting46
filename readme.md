@@ -4,12 +4,12 @@
 
 ## Generación de pruebas de stress
 
-# Agrega paquetes extras
+# Agregar paquetes extras
 ```sudo amazon-linux-extras install epel -y```
  
-# Instala stress
+# Instalar stress
 ```sudo yum install stress -y```
  
-# Comienza el stress
+# Iniciar el proceso de stress
 ```sudo stress --cpu 1```
 
