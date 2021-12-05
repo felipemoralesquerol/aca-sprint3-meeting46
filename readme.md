@@ -14,3 +14,4 @@
 # Iniciar el proceso de stress
 ```sudo stress --cpu 1```
 
+# Chequear el comportamiento a nivel de infraestructura
